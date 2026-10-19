@@ -2,6 +2,23 @@
 
 Free to take professionally designed and structured React, JavaScript, and HTML website/app templates.
 
+Every template follows the painter-pro-compatible structure:
+
+```text
+template/
+├── index.html
+├── template.json
+├── site.config.js
+├── legal.html
+├── README.md
+└── src/
+    ├── css/style.css
+    ├── js/main.js
+    └── images/README.md
+```
+
+Open `index.html` through a static server. Configure brand, navigation, contact details, theme colours, and future form endpoints in `site.config.js`. Keep form endpoints blank until a reviewed backend is connected.
+
 ## Templates
 
 - [Northstar SaaS / B2B landing page](templates/saas/) — standalone HTML, CSS, and vanilla JavaScript template with no dependencies.
@@ -33,5 +50,3 @@ Free to take professionally designed and structured React, JavaScript, and HTML 
 - [Pawswell Veterinary](templates/veterinary/) — veterinary site with pet services, species pathways, preventive care, emergency guidance, FAQ, and demo appointment form.
 - [Gather & Glow Events](templates/events/) — events and weddings site with event types, illustrative work, packages, process, FAQ, and demo inquiry.
 - [The Quiet Atlas Travel](templates/travel/) — travel site with destination/season/pace filters, itineraries, responsible travel, FAQ, and demo trip inquiry.
-
-Additional verticals are being productionized in the roadmap before they are published here.

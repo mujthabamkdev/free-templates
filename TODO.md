@@ -14,32 +14,32 @@
 - [x] Cybersecurity
 - [x] Digital agency / consultancy
 - [ ] Professional services
-- [ ] Law firm
+- [x] Law firm
 - [x] Accounting / tax / bookkeeping
 - [x] Real estate / property developer
 - [x] Construction / remodeling / home services
-- [ ] Medical clinic
+- [x] Medical clinic
 - [x] Dental practice
-- [ ] Mental health / therapy
-- [ ] Med spa / aesthetics
-- [ ] Fitness / wellness studio
-- [ ] Financial advisor / mortgage / insurance
-- [ ] Recruitment / staffing
-- [ ] Education / coaching / online course
-- [ ] E-commerce / DTC
-- [ ] Restaurant / cafe
-- [ ] Hotel / vacation rental
-- [ ] Architecture / interior design
-- [ ] Solar / renewable energy
-- [ ] Automotive dealership / EV
-- [ ] Logistics / freight / 3PL
-- [ ] Nonprofit / association
-- [ ] Property management
-- [ ] Government / public sector
-- [ ] Veterinary clinic
-- [ ] Beauty salon / barber
-- [ ] Events / weddings
-- [ ] Travel / tour operator
+- [x] Mental health / therapy
+- [x] Med spa / aesthetics
+- [x] Fitness / wellness studio
+- [x] Financial advisor / mortgage / insurance
+- [x] Recruitment / staffing
+- [x] Education / coaching / online course
+- [x] E-commerce / DTC
+- [x] Restaurant / cafe
+- [x] Hotel / vacation rental
+- [x] Architecture / interior design
+- [x] Solar / renewable energy
+- [x] Automotive dealership / EV
+- [x] Logistics / freight / 3PL
+- [x] Nonprofit / association
+- [x] Property management
+- [x] Government / public sector
+- [x] Veterinary clinic
+- [x] Beauty salon / barber
+- [x] Events / weddings
+- [x] Travel / tour operator
 
 ## Research and quality
 

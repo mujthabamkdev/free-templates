@@ -14,5 +14,24 @@ Free to take professionally designed and structured React, JavaScript, and HTML 
 - [Ledger & Co. accounting](templates/accounting/) — accounting and tax site with client services, planning visual, credentials, process, team, FAQ, and consultation form.
 - [Northline Build Co. construction](templates/construction/) — remodeling and home-services site with estimate CTA, services, projects, process, service areas, FAQ, and demo form.
 - [Morrow Dental](templates/dental/) — dental practice site with treatments, care team, results gallery, insurance, patient process, locations, FAQ, and demo appointment form.
+- [Morrow Mental Health](templates/mental-health/) — therapy practice site with support areas, therapist profiles, care pathway, privacy-safe intake, FAQ, and crisis guidance.
+- [Aurelia Med Spa](templates/med-spa/) — aesthetics site with treatments, practitioner credentials, illustrative results, consultation flow, expectations, and safety guidance.
+- [Northline Studio Fitness](templates/fitness/) — wellness studio site with classes, memberships, timetable, coaches, locations, FAQ, and demo trial form.
+- [Harborline Financial](templates/finance/) — advisor site with planning paths, illustrative payment explorer, trust disclosures, scenarios, FAQ, and demo consultation form.
+- [Fieldhouse Talent](templates/recruitment/) — recruitment site with candidate/employer paths, sector filters, illustrative roles, process, FAQ, and demo forms.
+- [Brightpath Studio](templates/education/) — course/coaching site with programs, curriculum, instructor proof, cohort details, pricing, FAQ, and demo enrollment form.
+- [Good Common Goods](templates/ecommerce/) — DTC storefront with collections, filters, product detail, bundle/subscription content, returns, FAQ, and demo newsletter form.
+- [Juniper & Salt](templates/restaurant/) — restaurant site with menu, dietary tags, gallery, locations, events, FAQ, and demo reservation form.
+- [Hearthline House](templates/hotel/) — hotel site with illustrative availability, rooms, amenities, local guide, policies, FAQ, and demo booking inquiry.
+- [Fieldwork Studio](templates/architecture/) — architecture/interiors site with portfolio, process, studio, awards, journal, FAQ, and demo inquiry.
+- [Sunward Energy](templates/solar/) — solar installer site with illustrative savings explorer, services, process, incentives guidance, FAQ, and demo consultation.
+- [Harbor Motors](templates/automotive/) — EV dealership site with inventory filters, ownership tools, finance/trade controls, service CTA, FAQ, and demo inquiry.
+- [Northstar Freight](templates/logistics/) — logistics site with services, lanes, tracking preview, compliance, case proof, FAQ, and demo quote forms.
+- [Common Ground Initiative](templates/nonprofit/) — nonprofit site with mission, programs, impact, stories, transparency, events, FAQ, and demo forms.
+- [Harborline Property](templates/property-management/) — property management site with owner/tenant paths, portfolio, maintenance preview, services, FAQ, and demo forms.
+- [Civic Services](templates/government/) — public-service site with service finder, announcements, eligibility guidance, records, FAQ, and demo request form.
+- [Pawswell Veterinary](templates/veterinary/) — veterinary site with pet services, species pathways, preventive care, emergency guidance, FAQ, and demo appointment form.
+- [Gather & Glow Events](templates/events/) — events and weddings site with event types, illustrative work, packages, process, FAQ, and demo inquiry.
+- [The Quiet Atlas Travel](templates/travel/) — travel site with destination/season/pace filters, itineraries, responsible travel, FAQ, and demo trip inquiry.
 
 Additional verticals are being productionized in the roadmap before they are published here.

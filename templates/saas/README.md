@@ -15,8 +15,8 @@ Open <http://localhost:8000> in a browser. Open `index.html` directly for a quic
 ## Customize
 
 - Update copy, SEO metadata, structured data, routes, and links in `index.html`.
-- Adjust the design tokens at the top of `styles.css`; keep component rules grouped by section and use the existing tokens for new UI.
-- `script.js` owns progressive-enhancement behavior: mobile navigation, focus management, billing toggle, demo form status, and footer year.
+- Adjust the design tokens at the top of `src/css/style.css`; keep component rules grouped by section and use the existing tokens for new UI.
+- `src/js/main.js` owns progressive-enhancement behavior: mobile navigation, focus management, billing toggle, demo form status, and footer year.
 - Replace sample content, customer logos, prices, social links, and the `https://northstar.example/` canonical URL before publishing.
 - Replace `/login` and `/api/trial-signups` with real application routes. The trial form intentionally shows a demo message until a backend is connected.
 - Replace `legal.html` sample policy copy with reviewed privacy, terms, and accessibility content.

@@ -15,8 +15,8 @@ Open <http://localhost:8000/>. `index.html` also opens directly, but a server ma
 ## Customize
 
 - Edit copy, metadata, JSON-LD, links, illustrative metrics, and organization details in `index.html`.
-- Tune colors, spacing, type scale, component rules, and responsive breakpoints in `styles.css`.
-- `script.js` owns mobile navigation focus management, Escape/Tab behavior, demo-only form messaging, and footer year.
+- Tune colors, spacing, type scale, component rules, and responsive breakpoints in `src/css/style.css`.
+- `src/js/main.js` owns mobile navigation focus management, Escape/Tab behavior, demo-only form messaging, and footer year.
 - Set your real site origin, canonical URL, `og:url`, JSON-LD URL, social profile URLs, and contact routes before publishing. This template omits origin metadata until deployment values are known.
 - The default Twitter card is the safe `summary` variant. If adding a social preview image, use an approved absolute HTTPS `og:image`/`twitter:image` asset (typically 1200×630) and verify its cacheable public URL.
 - Replace `legal.html` sample policy language with reviewed privacy, terms, accessibility, and security disclaimer content.

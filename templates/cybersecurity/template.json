@@ -1,0 +1,7 @@
+{
+  "name": "cybersecurity",
+  "title": "Aegisline Security",
+  "description": "A security operations template for posture, platform capabilities, services, trust, resources, and demo requests.",
+  "category": "Cybersecurity",
+  "version": "1.0.0"
+}

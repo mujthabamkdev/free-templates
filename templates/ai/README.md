@@ -16,8 +16,8 @@ Open <http://localhost:8000>. Open `index.html` directly for a quick preview; a 
 
 - Replace Kiteworks copy, metadata, canonical URL, JSON-LD, email, social links, case studies, and client names in `index.html`. Canonical, `og:url`, and JSON-LD URLs intentionally use relative `./` values until deployment; set them to the final absolute site URL before publishing.
 - The template uses the safe `summary` social card because it ships without an image. Add an approved absolute `og:image` and `twitter:image`, then switch to `summary_large_image` only after hosting and testing that image.
-- Tune design tokens at the top of `styles.css`; keep new component rules grouped near their section.
-- `script.js` provides responsive navigation with Escape/Tab focus handling, FAQ native disclosure behavior, demo-form validation/status, and footer year.
+- Tune design tokens at the top of `src/css/style.css`; keep new component rules grouped near their section.
+- `src/js/main.js` provides responsive navigation with Escape/Tab focus handling, FAQ native disclosure behavior, demo-form validation/status, and footer year.
 - The consultation form has no `action` or `method`; its controls stay disabled until JavaScript loads, so JavaScript-disabled previews cannot submit to the current page. Connect a privacy-reviewed backend only after adding an explicit endpoint, server-side validation, and updated consent/error handling.
 - Replace `legal.html` sample policy text with reviewed privacy, terms, accessibility, and contact details.
 

@@ -16,9 +16,9 @@ Open <http://localhost:8000/>. `index.html` is the main page; `legal.html` conta
 
 - Replace Ledger & Co. copy, illustrative figures, credentials, testimonials, contact details, links, canonical URL, social metadata, and JSON-LD in `index.html`.
 - Replace sample policy language and contact details in `legal.html` with reviewed legal, privacy, tax, and accessibility content.
-- Tune the color, typography, spacing, and layout tokens at the top of `styles.css`; section styles remain grouped by component.
+- Tune the color, typography, spacing, and layout tokens at the top of `src/css/style.css`; section styles remain grouped by component.
 - Keep inline SVGs or replace them with optimized, locally hosted artwork. No remote font or image requests are required.
-- `script.js` owns the mobile menu (Escape, focus wrapping, and resize behavior), footer year, and demo form response.
+- `src/js/main.js` owns the mobile menu (Escape, focus wrapping, and resize behavior), footer year, and demo form response.
 - The consultation form uses a button that is not a native submit control. It intentionally has no network action and clearly states that it is a demo. Add a reviewed backend only after server validation, privacy notices, consent handling, spam protection, accessible errors, and observability are in place.
 
 ## Production checklist

@@ -19,6 +19,20 @@ template/
 
 Open `index.html` through a static server. Configure brand, navigation, contact details, theme colours, and future form endpoints in `site.config.js`. Keep form endpoints blank until a reviewed backend is connected.
 
+## Shared runtime features
+
+Every template includes a dependency-free `src/js/main.js` runtime that supports:
+
+- Config-driven brand name, title, author metadata, phone, email, logo, colours, and navigation.
+- Optional absolute `http`/`https` form endpoint using `FormData`, `page`, `site_id`, and `origin` fields.
+- Safe local demo mode when `formEndpoint` and `googleSheetUrl` are blank or invalid; no request is made.
+- Loading, success, and error states for configured form submissions.
+- `LIVE_PREVIEW_UPDATE` `postMessage` updates for brand, hero copy, contact details, colours, navigation, logo, and gallery assets.
+- Gallery restoration when live-preview gallery updates are cleared.
+- Reduced-motion-aware anchor navigation.
+
+Runtime accepts either `contact.formEndpoint` or the sample-compatible `contact.googleSheetUrl`; use one reviewed endpoint, not both.
+
 ## Templates
 
 - [Northstar SaaS / B2B landing page](templates/saas/) — standalone HTML, CSS, and vanilla JavaScript template with no dependencies.

@@ -15,9 +15,9 @@ Open <http://localhost:8000> in a browser. The page is also safe to open directl
 ## Customize
 
 - Replace firm name, practice copy, attorney profiles, locations, and illustrative results in `index.html`.
-- Update the palette, typography, spacing, and responsive breakpoints in the token block and rules in `styles.css`.
+- Update the palette, typography, spacing, and responsive breakpoints in the token block and rules in `src/css/style.css`.
 - The courthouse illustration and attorney portraits are CSS/inline SVG, so there are no image files to replace.
-- `script.js` controls responsive navigation, focus trapping, Escape-to-close behavior, demo-form messaging, and the footer year.
+- `src/js/main.js` controls responsive navigation, focus trapping, Escape-to-close behavior, demo-form messaging, and the footer year.
 - The consultation form intentionally does not submit or store data. Replace its `action`, add server-side validation and spam protection, and complete a privacy review before collecting real inquiries.
 - Update `meta` and Open Graph values in `index.html` when replacing the sample firm identity. Add a verified canonical URL and social image at deployment time.
 - Review all illustrative results, testimonials, addresses, credentials, and legal disclosures with counsel before publishing.

@@ -10,16 +10,16 @@
 ## Industry templates
 
 - [x] SaaS / B2B software
-- [ ] AI products / automation
-- [ ] Cybersecurity
-- [ ] Digital agency / consultancy
+- [x] AI products / automation
+- [x] Cybersecurity
+- [x] Digital agency / consultancy
 - [ ] Professional services
 - [ ] Law firm
-- [ ] Accounting / tax / bookkeeping
-- [ ] Real estate / property developer
-- [ ] Construction / remodeling / home services
+- [x] Accounting / tax / bookkeeping
+- [x] Real estate / property developer
+- [x] Construction / remodeling / home services
 - [ ] Medical clinic
-- [ ] Dental practice
+- [x] Dental practice
 - [ ] Mental health / therapy
 - [ ] Med spa / aesthetics
 - [ ] Fitness / wellness studio

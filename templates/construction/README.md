@@ -25,8 +25,8 @@ Open <http://localhost:4173/> or <http://localhost:4173/legal.html>. A local ser
 1. Replace company name, phone, email, service areas, project descriptions, claims, and all `.example` metadata URLs in `index.html` and `legal.html`.
 2. Replace illustrative project SVGs with approved local images or your own inline SVGs; keep meaningful accessible names for visual content.
 3. Update credentials, warranty wording, financing disclosures, emergency guidance, reviews, ratings, and service-area claims only after verification.
-4. Adjust design tokens at the top of `styles.css` for brand colors, spacing, radii, and shadows.
-5. Connect `#estimate-form` to an approved backend or form provider, add consent/privacy language, protect against spam, and remove the demo success wording in `script.js`.
+4. Adjust design tokens at the top of `src/css/style.css` for brand colors, spacing, radii, and shadows.
+5. Connect `#estimate-form` to an approved backend or form provider, add consent/privacy language, protect against spam, and remove the demo success wording in `src/js/main.js`.
 6. Review the legal/accessibility page with your appropriate local professional. Add your real privacy, terms, cookie, and accessibility contact details.
 
 ## Production checklist
@@ -43,7 +43,7 @@ Open <http://localhost:4173/> or <http://localhost:4173/legal.html>. A local ser
 From this directory:
 
 ```sh
-node --check script.js
+node --check src/js/main.js
 python3 -m http.server 4173
 ```
 

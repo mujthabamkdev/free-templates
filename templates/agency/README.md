@@ -16,9 +16,9 @@ Open <http://localhost:8000/>. `index.html` is the main page; `legal.html` is th
 
 - Replace Aster & Co. copy, illustrative case studies/results, email, social links, canonical URL, and metadata in `index.html`.
 - Replace sample policy language and contact details in `legal.html` with reviewed legal and accessibility content.
-- Tune color, type, spacing, and layout tokens at the top of `styles.css`; component styles remain grouped by page section.
+- Tune color, type, spacing, and layout tokens at the top of `src/css/style.css`; component styles remain grouped by page section.
 - Keep inline SVGs or swap them for optimized, locally hosted artwork. Do not add remote font or image requests unless you intentionally accept that production dependency.
-- `script.js` owns the mobile menu (including Escape and focus wrapping), footer year, reduced-motion-compatible behavior, and demo form response.
+- `src/js/main.js` owns the mobile menu (including Escape and focus wrapping), footer year, reduced-motion-compatible behavior, and demo form response.
 - The inquiry form intentionally has no network action and clearly tells users it is a demo. Add a reviewed backend endpoint only after adding server validation, privacy notices, consent handling, spam protection, and error states.
 
 ## Production checklist

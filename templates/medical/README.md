@@ -15,9 +15,9 @@ Open <http://localhost:8000> in a browser. The page also works when opened direc
 ## Customize
 
 - Replace clinic name, care descriptions, team placeholders, testimonials, address, hours, phone number, and insurance language in `index.html`.
-- Update the palette, typography, spacing, responsive breakpoints, and generated portraits in `styles.css`.
+- Update the palette, typography, spacing, responsive breakpoints, and generated portraits in `src/css/style.css`.
 - The hero illustration and team portraits use inline SVG/CSS, so no image files or remote requests are needed.
-- `script.js` controls mobile navigation (focus return, focus trap, Escape/outside-click close), demo form messaging, and the footer year.
+- `src/js/main.js` controls mobile navigation (focus return, focus trap, Escape/outside-click close), demo form messaging, and the footer year.
 - The appointment form intentionally never sends, stores, or echoes submitted values. Connect it to a privacy-reviewed, secure endpoint before collecting real patient information; update the privacy copy and consent flow with your legal/privacy review.
 - Replace the `og:url`, illustrative copy, phone number, address, and `noindex, nofollow` metadata before publishing a real clinic site.
 

@@ -35,6 +35,11 @@
 - [ ] Logistics / freight / 3PL
 - [ ] Nonprofit / association
 - [ ] Property management
+- [ ] Government / public sector
+- [ ] Veterinary clinic
+- [ ] Beauty salon / barber
+- [ ] Events / weddings
+- [ ] Travel / tour operator
 
 ## Research and quality
 

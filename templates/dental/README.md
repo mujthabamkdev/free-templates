@@ -15,15 +15,15 @@ Open <http://localhost:8000/>. `index.html` and `legal.html` also work when open
 ## Files
 
 - `index.html` — full landing page: responsive header, hero actions, treatments, care team, inline SVG/CSS gallery, insurance/payment, patient process, illustrative reviews, locations/hours, FAQ, demo appointment form, emergency guidance, and footer.
-- `styles.css` — responsive layout, accessible focus states, generated portraits, inline-art styling, reduced-motion rules, and mobile navigation presentation.
-- `script.js` — keyboard-friendly mobile menu, focus return/trap, Escape/outside-click close, demo form behavior, and dynamic footer year.
+- `src/css/style.css` — responsive layout, accessible focus states, generated portraits, inline-art styling, reduced-motion rules, and mobile navigation presentation.
+- `src/js/main.js` — keyboard-friendly mobile menu, focus return/trap, Escape/outside-click close, demo form behavior, and dynamic footer year.
 - `legal.html` — linked privacy, accessibility, and health-disclaimer template page.
 
 ## Customize
 
 1. Replace every illustrative name, credential, quote, address, phone number, hour, service description, insurance statement, and outcome reference in both HTML files.
 2. Update the JSON-LD, canonical URL, Open Graph metadata, title, description, and `noindex, nofollow` decision in `index.html`.
-3. Tune colors, type, spacing, responsive breakpoints, portraits, and inline SVG illustrations in `styles.css`.
+3. Tune colors, type, spacing, responsive breakpoints, portraits, and inline SVG illustrations in `src/css/style.css`.
 4. Replace or remove gallery and review placeholders only after documented permission and content review.
 5. Connect appointment actions to a privacy-reviewed scheduling workflow. The included form intentionally never sends, stores, or echoes values.
 
